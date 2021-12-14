@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.carpc-xtouch_Pvr" version="2.0.1" name="CarPC-XTouch" provider-name="JackTirol_GTSFWL">
+<addon id="skin.carpc-xtouch_Pvr" version="2.0.2" name="CarPC-XTouch" provider-name="GTSFWL">
 	<requires>
 		<import addon="xbmc.gui" version="5.15.0"/>
 	</requires>
@@ -8,7 +8,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">CarPC-xtouch Pvr skin for Kodi 19 (Matrix)</summary>
-	    <description lang="en_GB">The skin is based on re-Touched skin (by Jezz_X), modified by Idorel and reworked by JackTirol. See changelog for a list of all modifications. </description>
+	    <description lang="en_GB">The skin is based on re-Touched skin (by Jezz_X), modified by Idorel and reworked by JackTirol and GTSFWL. See changelog for a list of all modifications. </description>
 		<disclaimer lang="en_GB">Use this skin with a touch screen or a keyboard</disclaimer>
 	    <platform>all</platform>
 	    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
