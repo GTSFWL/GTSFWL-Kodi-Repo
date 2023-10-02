@@ -4,7 +4,7 @@
 	<import addon="xbmc.gui" version="5.16.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="GTSFWL's Repo">
-	<info compressed="true">https://github.com/GTSFWL/GTSFWL-Kodi-Repo/tree/master/kodi20/addons.xml</info>
+	<info compressed="true">https://github.com/GTSFWL/GTSFWL-Kodi-Repo/blob/master/kodi20/addons.xml</info>
 	<checksum>https://github.com/GTSFWL/GTSFWL-Kodi-Repo/tree/master/kodi20/addons.xml.md5</checksum>
 	<datadir zip="true">https://github.com/GTSFWL/GTSFWL-Kodi-Repo/tree/master/kodi20/</datadir>
     </extension>
