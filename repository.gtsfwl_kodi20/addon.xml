@@ -4,9 +4,9 @@
 	<import addon="xbmc.gui" version="5.16.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="GTSFWL's Repo">
-	<info compressed="true">https://raw.githubusercontent.com/GTSFWL/GTSFWL-Kodi-Repo/master/kodi20/addons.xml</info>
-	<checksum>https://raw.githubusercontent.com/GTSFWL/GTSFWL-Kodi-Repo/master/kodi20/addons.xml.md5</checksum>
-	<datadir zip="true">https://raw.githubusercontent.com/GTSFWL/GTSFWL-Kodi-Repo/master/kodi20/</datadir>
+	<info compressed="true">https://github.com/GTSFWL/GTSFWL-Kodi-Repo/tree/master/kodi20/addons.xml</info>
+	<checksum>https://github.com/GTSFWL/GTSFWL-Kodi-Repo/tree/master/kodi20/addons.xml.md5</checksum>
+	<datadir zip="true">https://github.com/GTSFWL/GTSFWL-Kodi-Repo/tree/master/kodi20/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
 	<summary>Addons for Kodi 20</summary>
