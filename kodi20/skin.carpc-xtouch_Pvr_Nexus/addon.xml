@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="skin.carpc-xtouch_Pvr" version="2.0.4" name="CarPC-XTouch_Pvr" provider-name="GTSFWL">
+	<requires>
+		<import addon="xbmc.gui" version="5.15.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin"  debugging="false">
+		<res width="1280" height="720" aspect="16:9" default="true" folder="16x9" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">CarPC-xtouch Pvr skin for Kodi 20 (Nexus)</summary>
+		<summary lang="de_DE">CarPC-xtouch Pvr skin ist für Kodi 20 (Nexus)</summary>
+	    <description lang="en_GB">The skin is based on re-Touched skin (by Jezz_X), modified by Idorel and reworked by JackTirol and GTSFWL. See changelog for a list of all modifications. </description>
+		<description lang="de_DE">Der Skin basiert auf dem Re-Touched Skin (von Jezz_X), modifiziert von Idorel und überarbeitet von JackTirol und GTSFWL. Eine Liste aller Änderungen finden Sie im Changelog.</description>
+		<disclaimer lang="en_GB">Use this skin with a touch screen or a keyboard</disclaimer>
+		<description lang="de_DE">Verwenden Sie diesen Skin mit einem Touchscreen oder einer Tastatur</description>
+	    <platform>all</platform>
+	    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	    <website>http://raspicarprojekt.de/showthread.php?tid=790</website>
+		<forum>https://raspicarprojekt.de/index.php</forum>
+		<website>https://github.com/GTSFWL/</website>
+		<source>https://github.com/GTSFWL/</source>
+                <assets>
+                       <icon>resources/icon.png</icon>
+                       <fanart>resources/fanart.jpg</fanart>
+                       <screenshot>resources/screenshot-01.jpg</screenshot>
+                       <screenshot>resources/screenshot-02.jpg</screenshot>
+                       <screenshot>resources/screenshot-03.jpg</screenshot>
+                       <screenshot>resources/screenshot-04.jpg</screenshot>
+                       <screenshot>resources/screenshot-05.jpg</screenshot>
+                       <screenshot>resources/screenshot-06.jpg</screenshot>
+                       <screenshot>resources/screenshot-07.jpg</screenshot>
+                       <screenshot>resources/screenshot-08.jpg</screenshot>
+                       <screenshot>resources/screenshot-09.jpg</screenshot>
+                       <screenshot>resources/screenshot-10.jpg</screenshot>
+               </assets>
+	</extension>
+</addon>

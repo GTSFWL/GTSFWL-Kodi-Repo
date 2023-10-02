@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.gtsfwl_kodi18" name="GTSFWL's Repo Kodi18" version="1.0.0" provider-name="GTSFWL">
+    <requires>
+	<import addon="xbmc.gui" version="5.14.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="GTSFWL's Repo">
+	<info compressed="true">https://raw.githubusercontent.com/GTSFWL/GTSFWL-Kodi-Repo/master/kodi18/addons.xml</info>
+	<checksum>https://raw.githubusercontent.com/GTSFWL/GTSFWL-Kodi-Repo/master/kodi18/addons.xml.md5</checksum>
+	<datadir zip="true">https://raw.githubusercontent.com/GTSFWL/GTSFWL-Kodi-Repo/master/kodi18/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+	<summary>Addons for Kodi 18</summary>
+	<summary lang="en">Addons for Kodi 18</summary>
+	<description>GTSFWL's Repository</description>
+	<platform>all</platform>
+    </extension>
+</addon>
